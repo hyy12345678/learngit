@@ -1,2 +1,6 @@
 This is my first local git file
-Im fine now!
+Im feeling fine now!
+This time i changed something.
+This time i changed something.
+This time i changed something.
+This time i changed something.
