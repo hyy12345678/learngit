@@ -5,3 +5,6 @@ I delete some hh duplicate lines.
 
 add LICENSE
 This time i will do some bad things!
+git reacks changes.
+git trackschanges.
+
